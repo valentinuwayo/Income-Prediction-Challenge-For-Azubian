@@ -251,13 +251,13 @@ The FastAPI backend accepts user input data, preprocesses it, utilizes a trained
 
 # Author
 
-`Rasmo Wanyama`
+`Valentin UWAYO`
 
 `Data Analyst/Data Scientist`
 
 Let's connect on LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmo-/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-uwayo/) 
 
 # Acknowledgments:
 I would like to thank the open-source community and the data providers who contributed to the dataset used in this project. Their efforts have made advancements in income prediction possible.
